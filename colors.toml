@@ -1,0 +1,36 @@
+# Tron 1982 — black digital space, cyan circuitry, amber and red signals.
+# Omarchy generates application configs from this palette.
+mode = "dark"
+# Interactive highlights, selected text, and subdued UI elements.
+accent = "#61DFFF"
+selection = "#123952"
+muted = "#527589"
+# Layered dark surfaces retain separation without lifting the black base.
+background = "#050A10"
+dark_background = "#03070C"
+darker_background = "#010306"
+lighter_background = "#0D1C2A"
+# Cool text colors, ordered from secondary to brightest.
+foreground = "#D5F3FF"
+dark_foreground = "#7394A8"
+light_foreground = "#AED5E8"
+bright_foreground = "#F0FCFF"
+# Active windows receive a cyan-to-blue gradient; inactive borders recede.
+hyprland_active_border = "rgba(61dfffff) rgba(258bffff) 45deg"
+hyprland_inactive_border = "rgba(18354ccc)"
+# Semantic ANSI colors stay distinct for errors, warnings, and success.
+red = "#FF6565"
+yellow = "#FFD45A"
+orange = "#FF9B45"
+green = "#72DEB3"
+cyan = "#61DFFF"
+blue = "#529EFF"
+magenta = "#BB98F7"
+brown = "#9F754C"
+# Bright ANSI variants for highlighted terminal output.
+bright_red = "#FF9290"
+bright_yellow = "#FFE99A"
+bright_green = "#A3F5D1"
+bright_cyan = "#B0F3FF"
+bright_blue = "#91C6FF"
+bright_magenta = "#DCC4FF"
