@@ -1,6 +1,6 @@
 <div align="center">
 
-# TRON 1982 · Omarchy
+# Tron'82 · Omarchy
 
 **Black space. Blue grids. Light in motion.**
 
@@ -23,7 +23,7 @@ The backgrounds are original AI-generated interpretations made with OpenAI’s b
 ## Install
 
 ```bash
-omarchy theme install https://github.com/adampog/omarchy-tron-1982-theme
+omarchy theme install https://github.com/adampog/omarchy-tron-82-theme
 ```
 
 Or open the Omarchy menu, choose **Install → Style → Theme**, and paste this repository’s URL.
@@ -31,7 +31,7 @@ Or open the Omarchy menu, choose **Install → Style → Theme**, and paste this
 Switch back to the installed theme at any time:
 
 ```bash
-omarchy theme set tron-1982
+omarchy theme set tron-82
 ```
 
 ## Choose a background
@@ -83,9 +83,9 @@ Omarchy generates its supported application configurations from `colors.toml`. T
 
 Designed for current Omarchy installations that support `colors.toml` and the `omarchy theme` commands. The palette was applied locally and Hyprland reloaded without configuration errors. Older versions with different theme formats have not been tested.
 
-Edit `~/.config/omarchy/themes/tron-1982/colors.toml`, then run `omarchy theme set tron-1982` to apply your changes. Keep a copy of edits before updating or reinstalling the theme.
+Edit `~/.config/omarchy/themes/tron-82/colors.toml`, then run `omarchy theme set tron-82` to apply your changes. Keep a copy of edits before updating or reinstalling the theme.
 
-Add personal backgrounds under `~/.config/omarchy/backgrounds/tron-1982/` to keep them separate from the repository’s images.
+Add personal backgrounds under `~/.config/omarchy/backgrounds/tron-82/` to keep them separate from the repository’s images.
 
 See the [Omarchy theme guide](https://omarchy.org/manual/making-your-own-theme/) for the theme format and the [themes manual](https://omarchy.org/manual/themes/) for desktop controls.
 
