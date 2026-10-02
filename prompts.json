@@ -46,6 +46,17 @@
       "prompt": "Use case: precise-object-edit / historical CGI recreation. Create a replacement landscape desktop wallpaper for Tron'82 using the attached original TRON (1982) image as the strict visual reference. User requests a much more exact copy of the movie graphics. Reproduce the light cycle duel game-grid film frame faithfully as a desktop landscape: two rounded enclosed solid-bodied original 1982 bikes, one golden yellow and one cobalt blue, side by side low in the center foreground. Bright white perspective grid on flat navy floor. Opaque tall light ribbon walls stream to the right rear, yellow and pale blue. In the background, the low arena wall is decorated with large purple geometric glyphs and thin pale angular diagrams, black sky above. Preserve the exact film's chunky curved bike geometry and simple surface shading; avoid modern wireframe bikes. Match the reference geometry, surface colors, period rendering and composition with high fidelity. Adapt to a full-bleed 16:9 wallpaper by carefully extending the scene only where necessary; do not crop out major forms. Request 3840x2160 output if supported. Preserve the 1982 film's soft optical compositing and restrained fine grain, while making a clean high-quality wallpaper. Do not modernize, do not convert everything into neon wireframe, no synthwave mountains, no glossy ray tracing, no TRON Legacy elements, no additional titles, no border or watermark.",
       "width": 1672,
       "height": 941
+    },
+    {
+      "file": "backgrounds/07-solar-sailer-pursuit.png",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Edit image 1 (the wide TRON 1982 carrier pursuing the solar sailer composition) into the final seventh wallpaper. Preserve the full view of both ships, with the massive carrier behind at left and the smaller solar sailer ahead at right. CRITICAL user color directions: the SOLAR SAILER AND ITS TRANSPORT BEAM must be AMBER-GOLD, rich warm golden yellow and amber highlights, retain the sailer's curved spars and fine rigging. The SKY must be PURPLE, a magenta-purple band at the horizon fading upward into deep violet, as in image 2, which is strictly a film COLOR REFERENCE (do NOT copy its people). GROUND must be BLUE, cyan-blue and cobalt blue solid-shaded low digital terrain, as in image 2, distinctly separated from the purple sky. Correct the current blue sky. Give the carrier opaque very dark plum-black hull panels with red illuminated edge accents and tiny blue-white lamps; preserve its original 1982 long hull and raised bridge shape, no see-through wireframe hull. Keep the solar sailer and beam distinctly amber-golden as explicitly requested, NOT recolored blue. Both ships entirely visible with generous margins in a wide dramatic chase scene. Original 1982 CGI aesthetics, simple geometric surfaces, restrained optical glow and film softness, not modern glossy science fiction. No people, words, logos, stars, extra ships, border. Landscape 16:9 desktop wallpaper.",
+      "references": [
+        "https://vegalleries.com/art/walt-disney/1634/tron-1982/tron-special-effects-cel-iddectron3752",
+        "https://www.primevideo.com/detail/Tron-Plus-Bonus-Content/0HG2F27WYXW48Z97YHT6PU0F9R"
+      ],
+      "composition": "Original pursuit composition. Amber-gold solar sailer and beam, purple sky, blue terrain, dark carrier with red accents."
     }
   ]
 }

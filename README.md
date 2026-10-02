@@ -8,7 +8,7 @@ An Omarchy theme inspired by the pioneering computer graphics of *TRON* (1982).
 
 ![Omarchy theme](https://img.shields.io/badge/Omarchy-Theme-61DFFF?labelColor=050A10)
 ![Dark palette](https://img.shields.io/badge/Palette-Dark-529EFF?labelColor=050A10)
-![Six wallpapers](https://img.shields.io/badge/Wallpapers-6-FFD45A?labelColor=050A10)
+![Seven wallpapers](https://img.shields.io/badge/Wallpapers-7-FFD45A?labelColor=050A10)
 
 ![Light cycle materialization wallpaper](backgrounds/01-light-cycle-arena.png)
 
@@ -16,7 +16,7 @@ An Omarchy theme inspired by the pioneering computer graphics of *TRON* (1982).
 
 ## The look
 
-Near-black surfaces, icy cyan highlights, cobalt borders, and restrained amber/red accents. Six reference-guided backgrounds recreate specific 1982 CGI compositions: materializing light cycles, the Recognizer, the golden solar sailer, a tank, the MCP’s cylindrical face, and the game grid.
+Near-black surfaces, icy cyan highlights, cobalt borders, and restrained amber/red accents. Seven reference-guided backgrounds recreate specific 1982 CGI compositions: materializing light cycles, the Recognizer, the golden solar sailer, a tank, the MCP’s cylindrical face, the game grid, and a new solar sailer pursuit composition.
 
 The backgrounds are AI-generated recreations made with OpenAI’s built-in image generation tool using film imagery as visual references. They closely follow those references, with framing adapted for desktop use; they are not exact film frames or desktop screenshots. Image dimensions are listed in [prompts.json](prompts.json), alongside the complete prompts and reference sources.
 
@@ -42,7 +42,7 @@ Press **Super + Ctrl + Space** to open Omarchy’s background picker, or cycle t
 omarchy theme bg next
 ```
 
-These are six backgrounds for one theme; no workspace rules or assignments are required.
+These are seven backgrounds for one theme; no workspace rules or assignments are required.
 
 ## Wallpaper gallery
 
@@ -54,12 +54,20 @@ These are six backgrounds for one theme; no workspace rules or assignments are r
 | **Master Control Program** | **Game grid** |
 | ![Master Control Program](backgrounds/05-master-control.png) | ![Game grid](backgrounds/06-game-grid.png) |
 
+### Solar sailer pursuit
+
+![Solar sailer pursued by Sark’s carrier](backgrounds/07-solar-sailer-pursuit.png)
+
+An additional chase composition with an amber-gold sailer and transport beam, a purple sky, blue terrain, and the carrier’s red accents.
+
 ## Visual references
 
 - Light cycle materialization, solar sailer, and MCP: [TRON frame gallery](https://cathode13.blogspot.com/2015/08/screenshots-tron-1982.html).
 - Recognizer: [CultureSlate’s TRON retrospective](https://www.cultureslate.com/explained/how-tron-changed-sci-fi-and-predicted-the-futurerozkjaa5ls2x4j3eeagsco95derz8g).
 - Tank: [The Making of Tron, Video Games Player (1982)](https://vgpavilion.com/mags/1982/fall/vgp/the-making-of-tron/).
 - Game grid: [Computer History Museum’s popular culture timeline](https://www.computerhistory.org/timeline/popular-culture/).
+
+- Pursuit carrier: [original production cel](https://vegalleries.com/art/walt-disney/1634/tron-1982/tron-special-effects-cel-iddectron3752). Sky and terrain palette: [film still on Prime Video](https://www.primevideo.com/detail/Tron-Plus-Bonus-Content/0HG2F27WYXW48Z97YHT6PU0F9R).
 
 The reference downloads are not included in this repository. The first wallpaper set remains available in Git history.
 
@@ -83,8 +91,8 @@ Terminal success, warning, and error colors remain distinct. The active window b
 
 - [`colors.toml`](colors.toml): commented palette and window border colors.
 - [`icons.theme`](icons.theme): Yaru-blue icon selection.
-- [`backgrounds/`](backgrounds/): six numbered wallpapers in cycle order.
-- [`prompts.json`](prompts.json): image generation prompts for all six scenes.
+- [`backgrounds/`](backgrounds/): seven numbered wallpapers in cycle order.
+- [`prompts.json`](prompts.json): image generation prompts for all seven scenes.
 
 Omarchy generates its supported application configurations from `colors.toml`. The exact set of themed applications depends on your installed Omarchy version. This repository needs no custom scripts, plugins, or executable theme configuration.
 
