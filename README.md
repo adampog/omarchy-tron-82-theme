@@ -10,15 +10,15 @@ An Omarchy theme inspired by the pioneering computer graphics of *TRON* (1982).
 ![Dark palette](https://img.shields.io/badge/Palette-Dark-529EFF?labelColor=050A10)
 ![Six wallpapers](https://img.shields.io/badge/Wallpapers-6-FFD45A?labelColor=050A10)
 
-![Light cycle arena wallpaper](backgrounds/01-light-cycle-arena.png)
+![Light cycle materialization wallpaper](backgrounds/01-light-cycle-arena.png)
 
 </div>
 
 ## The look
 
-Near-black surfaces, icy cyan highlights, cobalt borders, and restrained amber/red accents. Six coordinated backgrounds explore the original film’s simple faceted forms, luminous edges, and vast electronic spaces.
+Near-black surfaces, icy cyan highlights, cobalt borders, and restrained amber/red accents. Six reference-guided backgrounds recreate specific 1982 CGI compositions: materializing light cycles, the Recognizer, the golden solar sailer, a tank, the MCP’s cylindrical face, and the game grid.
 
-The backgrounds are original AI-generated interpretations made with OpenAI’s built-in image generation tool. They are wallpaper previews, not desktop screenshots or extracted film frames. Each PNG is **1672 × 941**. The complete prompt set is included in [prompts.json](prompts.json).
+The backgrounds are AI-generated recreations made with OpenAI’s built-in image generation tool using film imagery as visual references. They closely follow those references, with framing adapted for desktop use; they are not exact film frames or desktop screenshots. Image dimensions are listed in [prompts.json](prompts.json), alongside the complete prompts and reference sources.
 
 ## Install
 
@@ -46,13 +46,22 @@ These are six backgrounds for one theme; no workspace rules or assignments are r
 
 ## Wallpaper gallery
 
-| Light cycle arena | Recognizer |
+| Light cycle materialization | Recognizer |
 | :---: | :---: |
-| ![Light cycle arena](backgrounds/01-light-cycle-arena.png) | ![Recognizer](backgrounds/02-recognizer.png) |
-| **Solar sailer** | **Tank maze** |
-| ![Solar sailer](backgrounds/03-solar-sailer.png) | ![Tank maze](backgrounds/04-tank-maze.png) |
-| **Master Control Program** | **Electronic landscape** |
-| ![Master Control Program](backgrounds/05-master-control.png) | ![Electronic landscape](backgrounds/06-electronic-landscape.png) |
+| ![Light cycle materialization](backgrounds/01-light-cycle-arena.png) | ![Recognizer](backgrounds/02-recognizer.png) |
+| **Solar sailer** | **Tank** |
+| ![Solar sailer](backgrounds/03-solar-sailer.png) | ![Tank](backgrounds/04-tank-maze.png) |
+| **Master Control Program** | **Game grid** |
+| ![Master Control Program](backgrounds/05-master-control.png) | ![Game grid](backgrounds/06-game-grid.png) |
+
+## Visual references
+
+- Light cycle materialization, solar sailer, and MCP: [TRON frame gallery](https://cathode13.blogspot.com/2015/08/screenshots-tron-1982.html).
+- Recognizer: [CultureSlate’s TRON retrospective](https://www.cultureslate.com/explained/how-tron-changed-sci-fi-and-predicted-the-futurerozkjaa5ls2x4j3eeagsco95derz8g).
+- Tank: [The Making of Tron, Video Games Player (1982)](https://vgpavilion.com/mags/1982/fall/vgp/the-making-of-tron/).
+- Game grid: [Computer History Museum’s popular culture timeline](https://www.computerhistory.org/timeline/popular-culture/).
+
+The reference downloads are not included in this repository. The first wallpaper set remains available in Git history.
 
 ## Palette
 
