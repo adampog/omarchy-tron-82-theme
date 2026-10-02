@@ -58,7 +58,7 @@ These are seven backgrounds for one theme; no workspace rules or assignments are
 
 ![Solar sailer pursued by Sark’s carrier](backgrounds/07-solar-sailer-pursuit.png)
 
-An additional chase composition with an amber-gold sailer and transport beam, a purple sky, blue terrain, and the carrier’s red accents.
+An additional chase composition with an amber-gold sailer, a transport beam extending ahead and behind, a purple sky, blue gridded mountains, and a solid dark carrier with red accents.
 
 ## Visual references
 
